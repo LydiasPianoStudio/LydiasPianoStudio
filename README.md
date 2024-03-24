@@ -1,12 +1,7 @@
-
-
 <!--
 **LydiasPianoStudio/LydiasPianoStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
@@ -15,6 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Howdy! I'm Lydia Bandy 👋
+![Lydia Bandy Web Developer](image_path)
 
 - 🎹 Owner/founder of [LydiasPianoStudio.com](https://www.lydiaspianostudio.com)
 - 🎵 Professional harpist & pianist: [Check out my performances on YouTube!](https://www.youtube.com/channel/UCjNLzm0W-ojlrSBowuwMhQg)
