@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🎲⚔🗡🐲 Enjoy playing D&D weekly, "The Misadventuring Party", on [Twitch](https://m.twitch.tv/themisadventuringparty/home)
 - 💬 Ask me about similarities in music theory 🎵 and coding languages 💻
 - 🔭 I’m currently working on finishing up "Johnny 5"🤖: [My MERN Stack Chatbot Clone](https://github.com/LydiasPianoStudio/MERN-AI-ChatBot-App)
-- 🌱 I’m currently expanding my knowledge in Python, Go, and Javascript to level up my Backend skills
-- 💻👨‍💻⌨🖱💼 Eager to contribute and collaborate on exciting projects as a Full-Stack Engineer 😄 
+- 🌱 I'm deepening my proficiency in the latest front-end and back-end technologies, including HTML, CSS, JavaScript, TypeScript, Node.js, React.js, MongoDB, SQL, and Python.
+- 💻👨‍💻⌨🖱 Eager to contribute and collaborate on exciting projects as a Full-Stack Engineer 😄
+- 💼 Actively pursuing a career as a Full-Stack Engineer.  
 - 📫 How to reach me: [Lydia Bandy LinkedIn](https://www.linkedin.com/in/lydia-bandy-2b160745/)
