@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about similarities in music theory 🎵 and coding languages 💻
 - 🔭 I’m currently working on finishing up "Johnny 5"🤖: [My MERN Stack Chatbot Clone](https://github.com/LydiasPianoStudio/MERN-AI-ChatBot-App)
 - 🌱 I'm deepening my proficiency in the latest front-end and back-end technologies, including HTML, CSS, JavaScript, TypeScript, Node.js, React.js, MongoDB, SQL, and Python.
-- 💻👨‍💻⌨🖱 Eager to contribute and collaborate on exciting projects as a Full-Stack Engineer 😄
-- 💼 Actively pursuing a career as a Full-Stack Engineer.  
+- 💻👨‍💻⌨🖱 Eager to contribute and collaborate on exciting projects ✍ 😄
+- 💼 Actively pursuing a career as a Full-Stack Engineer. Here is my [Resume](https://www.kickresume.com/cv/gNExlK/) 📃 
 - 📫 How to reach me: [Lydia Bandy LinkedIn](https://www.linkedin.com/in/lydia-bandy-2b160745/)
