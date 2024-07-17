@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ## Howdy! I'm Lydia Bandy 👋
 ![Lydia Bandy Web Developer](Banner.jpg)
 
-- 🎹 Owner/founder of [LydiasPianoStudio.com](https://www.lydiaspianostudio.com)
+- 🎹 CEO & Owner/founder of [LydiasPianoStudio.com](https://www.lydiaspianostudio.com)
 - 🎵 Professional harpist & pianist: [Check out my performances on YouTube!](https://www.youtube.com/channel/UCjNLzm0W-ojlrSBowuwMhQg)
 - 🎶 Listen to my album "Piano Pearls" on [Spotify](https://open.spotify.com/artist/52xxPzgfdnhflFnTu5g0OY?si=ZEsbXdQqSI6NRsi5f_Nuog)
 - 🎲⚔🗡🐲 Enjoy playing D&D weekly, "The Misadventuring Party", on [Twitch](https://m.twitch.tv/themisadventuringparty/home)
