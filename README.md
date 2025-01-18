@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Howdy! I'm Lydia Bandy 👋
-![Lydia Bandy Web Developer](Banner.jpg)
+![Lydia Bandy Software Engineer](https://github.com/user-attachments/assets/5a238972-ab2b-4d60-9ff9-ec8b48cddc0b)
 
 - 🎹 CEO & Owner/founder of [LydiasPianoStudio.com](https://www.lydiaspianostudio.com)
 - 🎵 Professional harpist & pianist: [Check out my performances on YouTube!](https://www.youtube.com/channel/UCjNLzm0W-ojlrSBowuwMhQg)
