@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 💻 Web development and consultant: [Albert Bandy](https://albertbandy.com)
 - 💬 "My sales have doubled for my woodworking projects thanks LydiasPianoStudio for developing my website!" ~Albert Bandy
 - 👨‍💻⌨🖱 I like to contribute to open sources and collaborate on exciting projects ✍ 😄
-- 💼 Full-Stack Software Engineer. Here is my [Resume](https://www.kickresume.com/cv/gNExlK/) 📃 
+- 💼 Full-Stack Software Engineer. Here is my [Resume](https://docs.google.com/document/d/e/2PACX-1vQI6KKmcNers0uLsc2kwXdWj5LDSP_LB7uuIxOoKQ0eWuBWDGmlorK8LwasBngMEd3zFIPlopadiOmK/pub) 📃 
 - 📫 How to reach me: [Lydia Bandy LinkedIn](https://www.linkedin.com/in/lydia-bandy-2b160745/)
