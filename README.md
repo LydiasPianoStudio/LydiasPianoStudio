@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 🎲⚔🗡🐲 Enjoy playing D&D weekly, "The Misadventuring Party", on [Twitch](https://m.twitch.tv/themisadventuringparty/home)
 - 💬 Ask me about similarities in music theory 🎵 and coding languages 💻
 - 🔭 Check out my chatbot clone: "Johnny 5"🤖: [My MERN Stack Chatbot Clone](https://github.com/LydiasPianoStudio/MERN-AI-ChatBot-App)
-- 🌱 Proficient in JavaScript, TypeScript, Node.js, React.js, MongoDB, SQL, and Python.
+- 🌱 Proficient in JavaScript, TypeScript, Node.js, React.js, MongoDB, SQL, Docker, Prisma, Clerk, and Python.
 - 💻 Web development and consultant: [Albert Bandy](https://albertbandy.com)
 - 💬 "My sales have doubled for my woodworking projects thanks LydiasPianoStudio for developing my website!" ~Albert Bandy
 - 👨‍💻⌨🖱 I like to contribute to open sources and collaborate on exciting projects ✍ 😄
-- 💼 Full-Stack Software Engineer. Here is my [Resume](https://docs.google.com/document/d/e/2PACX-1vQI6KKmcNers0uLsc2kwXdWj5LDSP_LB7uuIxOoKQ0eWuBWDGmlorK8LwasBngMEd3zFIPlopadiOmK/pub) 📃 
+- 💼 Full-Stack Software Engineer. Here is my [Resume](https://docs.google.com/document/d/1JiFbiscyqI6w4mdJOWmCcs8zHqqYfEAeZ04gWkNbLx4/edit?usp=sharing) 📃 
 - 📫 How to reach me: [Lydia Bandy LinkedIn](https://www.linkedin.com/in/lydia-bandy-2b160745/)
