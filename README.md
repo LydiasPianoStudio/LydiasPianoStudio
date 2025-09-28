@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 💬 "My sales have doubled for my woodworking projects thanks LydiasPianoStudio for developing my website!" ~Albert Bandy
 - 👨‍💻⌨🖱 I like to contribute to open sources and collaborate on exciting projects ✍ 😄
 - 💼 Full-Stack Software Engineer. Here is my [Resume](https://docs.google.com/document/d/1JiFbiscyqI6w4mdJOWmCcs8zHqqYfEAeZ04gWkNbLx4/edit?usp=sharing) 📃 
-- 📫 How to reach me: [Lydia Bandy LinkedIn](https://www.linkedin.com/in/lydia-bandy-2b160745/)
+- 📫 How to reach me: [Lydia Bandy LinkedIn](https://www.linkedin.com/in/lydia-bandy/)
